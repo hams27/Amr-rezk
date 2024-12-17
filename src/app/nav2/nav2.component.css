@@ -1,0 +1,35 @@
+.row{
+    padding: 30px 0; 
+}
+.row div{
+    height: 40px;
+    border-radius: 35px;
+    width: 250px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+#ios{
+    background-image: url('/images\ \(14\).jpeg');
+    background-size: 17rem 3rem;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#android{
+    background-image: url('/Picsart_24-09-09_16-46-08-800.jpg');
+    background-size: 17rem 3rem;
+    background-repeat: no-repeat;
+    color: white;
+}
+#smartwatch{
+   color: white;
+   background-image: url('/cdcdabfb9b5259236eb5b6a7d4f17666.jpg');
+    background-size: 17rem 3rem;
+    background-repeat: no-repeat;
+}
+#accessorise{
+    background-image: url('/6496c0261e277cc86b9a49e29279ff40.jpg');
+    background-size: 17rem 3rem;
+    background-repeat: no-repeat;
+    color: white;
+}

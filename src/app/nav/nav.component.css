@@ -1,0 +1,38 @@
+.container-fluid{
+    display: flex;
+    padding: 0;
+    justify-content: left;  
+}
+.search{
+    margin-left: 30px;
+width: 700px;
+}
+.search input{
+    border-radius: 45px;
+    text-align: center;
+}
+#login{
+    border: 1px solid grey;
+    margin-left: 10px;
+    color: black;
+    border-radius: 45px;
+
+}
+#signup{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    border-radius: 45px;
+    width: 150px;
+}
+.menu ul{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-left: 300px;
+}
+.basket{
+    margin-left: 180px;
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,6 @@
+.container{
+    background-image: linear-gradient( to bottom right , rgb(204, 202, 202),white) ;
+margin: 100px auto;
+padding: 20px;
+border-radius: 35px;
+}
